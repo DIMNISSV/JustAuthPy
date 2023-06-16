@@ -1,0 +1,4 @@
+fastapi_jwt
+httpx~=0.24.1
+fastapi~=0.97.0
+jose
